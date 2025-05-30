@@ -71,5 +71,5 @@ This project demonstrates how simple NLP techniques can be used to build practic
 
 ![Image](https://github.com/user-attachments/assets/c268688f-e311-4ae9-ba71-43cf7978965b)
 
-![Image](https://github.com/user-attachments/assets/c268688f-e311-4ae9-ba71-43cf7978965b)
+
 
