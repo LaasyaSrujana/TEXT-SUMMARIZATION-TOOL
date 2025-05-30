@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: LAASYA SRUJANA
+*NAME*: LAASYA SRUJANA I S
 
 *INTERN ID*: CT04DL156
 
@@ -69,7 +69,9 @@ Internet connection (to download NLTK data once)
 *Outcome*:
 This project demonstrates how simple NLP techniques can be used to build practical tools. It emphasizes clarity, usability, and efficient processing of natural language, making it useful for students, professionals, and researchers alike.
 
+*OUTPUT*:
+
 ![Image](https://github.com/user-attachments/assets/c268688f-e311-4ae9-ba71-43cf7978965b)
 
-
+![Image](https://github.com/user-attachments/assets/582c20a6-6ccc-4e97-9ced-e919984150dd)
 
