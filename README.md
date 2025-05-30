@@ -70,3 +70,6 @@ Internet connection (to download NLTK data once)
 This project demonstrates how simple NLP techniques can be used to build practical tools. It emphasizes clarity, usability, and efficient processing of natural language, making it useful for students, professionals, and researchers alike.
 
 ![Image](https://github.com/user-attachments/assets/c268688f-e311-4ae9-ba71-43cf7978965b)
+
+![Image](https://github.com/user-attachments/assets/c268688f-e311-4ae9-ba71-43cf7978965b)
+
